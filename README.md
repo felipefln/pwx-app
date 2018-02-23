@@ -14,7 +14,7 @@ pwx-app is a simple API allowing users to view, create, update and delete Catego
 
 ### Instructions to local deploy
 ```shell
-$ git clone https://github.com/romuluc/pwx-app.git
+$ git clone https://github.com/felipefln/pwx-app.git
 
 $ cd pwd-app
 
